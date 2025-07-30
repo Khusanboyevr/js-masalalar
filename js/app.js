@@ -52,8 +52,25 @@
 //   }
 // }
 
-// 11;
-// 12;
+// let son1 = prompt("1-sonni kiriting:");
+// let son2 = prompt("2-sonni kiriting:");
+
+// let son1Lower = son1.toLowerCase();
+
+// if (son1.length === son2.length || son1Lower === "") {
+//    console.log("Birinchi son g'olib!");
+// } else {
+//    console.log("Ikkinchi son g'olib!");
+// }
+
+// let age = prompt("1-so'zni kiriting:");
+// let soz2 = prompt("2-so'zni kiriting:");
+
+// if (age.length > 18 || (soz2.Lower && "ali")) {
+//    console.log("Xush kelibsiz");
+// } else {
+//    console.log("Kirish taqiqlanadi!");
+// }
 
 // let input = prompt("son kiriting");
 
